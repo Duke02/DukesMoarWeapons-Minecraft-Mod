@@ -1,0 +1,6 @@
+
+Crossbow
+Longbow
+Shortbow
+Bladed Wrist
+Javelin
